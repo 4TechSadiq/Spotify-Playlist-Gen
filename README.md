@@ -35,7 +35,7 @@ pip install requests beautifulsoup4 spotipy
 
 1. Run the script:
    ```bash
-   python script_name.py
+   python main.py
    ```
 2. Enter the date in `YYYY-MM-DD` format when prompted. For example:
    ```
